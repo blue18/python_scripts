@@ -14,6 +14,9 @@ message = "hello friend"
 # Set
 someSet = {10, 2, "a", "d"}
 
+# Dictionary
+myDictionary = {1: 'apple', 2: 'orange'}
+
 
 def compare(x, y):
     """Comparing values"""
