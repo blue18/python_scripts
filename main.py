@@ -27,4 +27,4 @@ print(compare.__doc__)
 print(compare(7, 7))
 print(userList)
 print(phoneNumbers)
-
+print("hello friend")
